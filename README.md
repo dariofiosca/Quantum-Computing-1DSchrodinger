@@ -8,7 +8,7 @@ Next steps regarding this "project" will be:
 
 - Implement a potential V(x)
 - Mitigate and correct the results from the Fake Backend
-- Extend the simualtion to 4 qubit system and run it on a real Quantum Device
+- Run the code for a 4 qubit system on a real Quantum Device
 
 Hope you find interesting! 
 
